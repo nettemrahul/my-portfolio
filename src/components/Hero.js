@@ -23,7 +23,9 @@ const Hero = () => {
               and solving problems with Machine Learning.
             </p>
             <div className="d-flex flex-column flex-sm-row gap-3 justify-content-center justify-content-lg-start mb-3">
-            <a className="btn btn-primary" href="/resume.pdf" download>Download Resume</a>
+            <a href="/resume.pdf" download className="btn btn-primary">
+  📄 Download Resume
+</a>
             <a className="btn btn-outline-primary" href="#projects">View Projects</a>
             </div>
             <div className="social-icons d-flex gap-3 justify-content-center justify-content-lg-start">

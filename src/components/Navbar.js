@@ -19,7 +19,9 @@ const Navbar = () => {
           <ul className="navbar-nav ms-auto">
             <li className="nav-item"><a className="nav-link" href="#projects">Projects</a></li>
             <li className="nav-item"><a className="nav-link" href="#contact">Contact</a></li>
-            <li className="nav-item"><a className="nav-link" href="/resume.pdf" download>Resume</a></li>
+            <a href="/resume.pdf" download className="btn btn-primary">
+  📄 Download Resume
+</a>
           </ul>
         </div>
       </div>

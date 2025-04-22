@@ -28,9 +28,10 @@ export default function Header() {
         </a>
       </div>
 
-      <a href="/resume.pdf" download className="btn btn-primary mb-4" id="resume">
-        📄 Download Resume
-      </a>
+      <a href="/resume.pdf" download className="btn btn-primary">
+  📄 Download Resume
+</a>
+
 
       <h2 id="projects" className="section-title mb-3">Projects</h2>
       <div className="projects row justify-content-center">
