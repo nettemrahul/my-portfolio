@@ -7,7 +7,7 @@ const Footer = () => {
       <p>
         Feel free to reach out via{' '}
         <a
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=youremail@example.com&su=Let's Connect&body=Hi Rahul,"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=rahul.nettem@gmail.com&su=Let's Connect&body=Hi Rahul,"
           target="_blank"
           rel="noopener noreferrer"
           className="text-info fw-semibold"
